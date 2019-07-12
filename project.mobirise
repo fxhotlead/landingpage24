@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "LandingPage24",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -389,7 +389,7 @@
     "page2.html": {
       "settings": {
         "meta_descr": "Web Generator Description",
-        "title": "Ordine",
+        "title": "Questionario Standard",
         "order": 1
       },
       "components": [
