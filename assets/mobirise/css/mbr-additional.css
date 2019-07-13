@@ -1889,9 +1889,9 @@ body {
 .cid-rw20D7tM5q {
   padding-top: 75px;
   padding-bottom: 75px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/background.jpg");
 }
 .cid-rw20D7tM5q .mbr-overlay {
   background-color: #ffffff;
-  opacity: 0.4;
+  opacity: 0.6;
 }
